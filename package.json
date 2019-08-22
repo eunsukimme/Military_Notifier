@@ -1,0 +1,10 @@
+{
+  "name": "military_notifier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "eunsukimme <eunsu.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
